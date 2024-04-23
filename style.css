@@ -38,9 +38,73 @@ header{
 .finestrabiancapiccola{
     background-color: white;
     margin: 40px 180px 1px;
+    height: 50px;
 }
 
 .finestrabiancagrande {
     background-color: white;
     margin: -17px 180px;
+}
+
+.button1 {
+background-color: #00a6ff;
+color: white;
+margin: 15px 0px 0px 35px;
+border-radius: 15%;
+}
+
+.button2 {
+    background-color: #00a6ff;
+    color: white;
+    border-radius: 15%;
+    }
+
+h2{
+    margin-left: 35px;
+}
+
+.listtodo{
+    margin-left: 35px;
+}
+
+.buttonedtiorial {
+  background-color: #00aeff;
+  color: white;
+  border-radius: 20%;
+  font-size: 9px;
+}
+
+.buttonq1goals{
+    background-color: hsla(276, 97%, 50%, 0.914);
+  color: white;
+  border-radius: 20%;
+  font-size: 9px;
+}
+
+.buttonrecruiting{
+    background-color: hwb(119 5% 30% / 0.995);
+    color: white;
+    border-radius: 20%;
+    font-size: 9px;
+}
+
+.buttonmobile{
+    background-color: rgba(255, 183, 0, 0.995);
+    color: white;
+    border-radius: 20%;
+    font-size: 9px;
+}
+
+.buttonwebsite {
+    background-color: hsla(330, 96%, 56%, 0.995);
+    color: white;
+    border-radius: 20%;
+    font-size: 9px;
+}
+
+.buttonsales {
+    background-color: hwb(98 21% 25% / 0.995);
+    color: white;
+    border-radius: 20%;
+    font-size: 9px;
 }
