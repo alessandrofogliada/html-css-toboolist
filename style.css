@@ -1,0 +1,42 @@
+/* regole generali pagina */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* regole della parte header */
+
+header{
+    background-color: white;
+    text-align: left;
+    padding: 2px 5px;
+}
+
+#logotoboolist{
+    height: 50px;
+    width: 50px;
+    margin: 2px 5px;
+    border: 2px 10px;
+    vertical-align: middle;
+}
+
+#titolo {
+    font-size: 30px;
+}
+
+
+/* regole della parte main */
+
+.paginaprincipale{
+    background-color: grey;
+    background-size: cover;
+    }
+
+.finestrabianca{
+    background-color: white;
+}
