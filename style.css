@@ -7,7 +7,9 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color:grey;
+    background-color: #f6f8f9;
+
+
 }
 /* regole della parte header */
 
@@ -32,7 +34,7 @@ header{
 /* regole della parte main */
 
 .paginaprincipale{
-  background-color: grey
+        background-color: #f6f8f9;
 }
 
 .finestrabiancapiccola{
@@ -47,16 +49,23 @@ header{
 }
 
 .button1 {
-background-color: #00a6ff;
-color: white;
-margin: 15px 0px 0px 35px;
-border-radius: 15%;
+    background-color: #46acf0;
+    color: white;
+    margin: 15px 0px 0px 35px;
+    border-radius: 15%;
+    display: inline-block;
+    text-align: center;
+    line-height: 2;
 }
 
 .button2 {
-    background-color: #00a6ff;
+    background-color: #46acf0;
     color: white;
     border-radius: 15%;
+    display: inline-block;
+    text-align: center;
+    line-height: 2;
+    
     }
 
 h2{
@@ -68,43 +77,73 @@ h2{
 }
 
 .buttonedtiorial {
-  background-color: #00aeff;
+  background-color: #46acf0;
   color: white;
-  border-radius: 20%;
+  border-radius: 50%;
   font-size: 9px;
+  display: inline-block;
+  width: 45px;
+  height: 18px;
+  text-align: center;
+  line-height: 2;
 }
 
 .buttonq1goals{
-    background-color: hsla(276, 97%, 50%, 0.914);
+    background-color: #9c72e4;
   color: white;
-  border-radius: 20%;
+  border-radius: 50%;
   font-size: 9px;
+  display: inline-block;
+  width: 45px;
+  height: 18px;
+  text-align: center;
+  line-height: 2;
 }
 
 .buttonrecruiting{
-    background-color: hwb(119 5% 30% / 0.995);
+    background-color: #65c0a9;
     color: white;
-    border-radius: 20%;
+    border-radius: 50%;
     font-size: 9px;
+    display: inline-block;
+    width: 45px;
+    height: 18px;
+    text-align: center;
+    line-height: 2;
 }
 
 .buttonmobile{
-    background-color: rgba(255, 183, 0, 0.995);
+    background-color:#f29e33;
     color: white;
-    border-radius: 20%;
+    border-radius: 50%;
     font-size: 9px;
+    display: inline-block;
+    width: 45px;
+    height: 18px;
+    text-align: center;
+    line-height: 2;
 }
 
 .buttonwebsite {
-    background-color: hsla(330, 96%, 56%, 0.995);
+    background-color: #d863a1;
     color: white;
-    border-radius: 20%;
+    border-radius: 50%;
     font-size: 9px;
+    display: inline-block;
+    width: 45px;
+    height: 18px;
+    text-align: center;
+    line-height: 2;
 }
 
 .buttonsales {
-    background-color: hwb(98 21% 25% / 0.995);
+    background-color:#b0c926;
     color: white;
-    border-radius: 20%;
+    border-radius: 50%;
     font-size: 9px;
+    display: inline-block;
+    width: 45px;
+    height: 18px;
+    text-align: center;
+    line-height: 2;
 }
